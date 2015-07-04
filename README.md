@@ -9,3 +9,4 @@
 节约老师点名时间，提高课堂授课效率（3）基于Android平台开发，适用性较为广泛。
 
 系统模拟图如下：
+ ![image](https://github.com/lixuefeng123/Socket_client/raw/master/系统模拟图.jpg)
